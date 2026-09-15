@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Bud\u017CetowaAplikacja2026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Program.cs",
+              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Program.cs",
+              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Program.cs*",
+              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T04:06:08.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\.gitignore",
               "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\.gitignore",
