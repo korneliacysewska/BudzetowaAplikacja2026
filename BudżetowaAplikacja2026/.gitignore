@@ -1,40 +1,7 @@
-# Visual Studio
+﻿[Bb]in/
+[Oo]bj/
+
+FixFlow/appsettings.Development.json
+FixFlow/appsettings.json
+FixFlow/Properties/PublishProfiles
 .vs/
-.vscode/
-*.user
-*.suo
-*.sln.docstates
-
-# Build
-bin/
-obj/
-Debug/
-Release/
-*.dll
-*.exe
-*.pdb
-
-# Dependencies
-node_modules/
-package-lock.json
-.npm
-
-# Environment & Secrets
-.env
-.env.local
-appsettings.json
-appsettings.Development.json
-appsettings.Production.json
-
-# Logs
-logs/
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.idea/
-*.swp
-*.swo

@@ -3,52 +3,8 @@
   "WorkspaceRootPath": "C:\\Bud\u017CetowaAplikacja2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|c:\\bud\u017Cetowaaplikacja2026\\bud\u017Cetowaaplikacja2026\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{00E4F8AD-A8D3-43CB-AD35-061CADDAF5C3}|Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026.csproj|solutionrelative:bud\u017Cetowaaplikacja2026\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,156 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HealthController.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\HealthController.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Controllers\\HealthController.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\HealthController.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Controllers\\HealthController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T00:31:19.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StatisticController.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\StatisticController.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Controllers\\StatisticController.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\StatisticController.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Controllers\\StatisticController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwBMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T23:25:29.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Program.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Program.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Program.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T20:27:14.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BudgetsController.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\BudgetsController.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Controllers\\BudgetsController.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\BudgetsController.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Controllers\\BudgetsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T21:58:01.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T21:57:26.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T17:19:17.448Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\appsettings.json",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\appsettings.json",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\appsettings.json",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-14T17:01:04.718Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\.gitignore",
+              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\.gitignore",
+              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\.gitignore",
+              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-15T03:16:34.037Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-15T00:28:17.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlobService.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Services\\BlobService.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Services\\BlobService.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Services\\BlobService.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Services\\BlobService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T22:27:30.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T22:25:11.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RedisService.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Services\\RedisService.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Services\\RedisService.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Services\\RedisService.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Services\\RedisService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T23:20:26.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Bud\u017CetowaAplikacja2026\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Bud\u017CetowaAplikacja2026\\Bud\u017CetowaAplikacja2026\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Bud\u017CetowaAplikacja2026\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T21:02:22.235Z"
             }
           ]
         }
